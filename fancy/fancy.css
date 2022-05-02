@@ -335,6 +335,7 @@ html {
   }
   fieldset {
       display: flex;
+      margin: 1rem;
   }
   fieldset div {
     display: flex;
