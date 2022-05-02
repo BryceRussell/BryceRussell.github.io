@@ -4,7 +4,7 @@ html {
     --fancy-gradient: var(--gradient-18);
     /* Some animations dont work well with backgrounds and cause abupt lines between colors (image border) */
     --fancy-animation-type: gradient-fade-square;
-    --fancy-animation-ease: ease;
+    --fancy-animation-ease: ease-in-out;
     --fancy-anim-direction: normal;
     --fancy-animation-speed: 10s;
     --fancy-link-unl-speed: 5s;
